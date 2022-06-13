@@ -1,7 +1,8 @@
 # Awesome Machine Learing with Minimum Supervision
 
 ## Table of Contents
-[Paper & Code](#Paper & Code)
+
+* (Paper & Code)[#paper--code]
 
 ## Paper & Code
 
