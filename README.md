@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* (Paper & Code)[#paper--code]
+* [Paper & Code](#paper--code)
 
 ## Paper & Code
 
