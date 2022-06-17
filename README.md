@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Paper & Code](#paper--code)
+    * [Self-Supervised Learning](#self-supervised-learning)
     * [Semi-Supervised Learning](#semi-supervised-learning)
     * [Learning from Noisy Labels](##learning-from-noisy-labels)
 
